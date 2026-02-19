@@ -7,6 +7,7 @@ ________________________________________________________________________________
 That’s a huge improvement 🚀 (very good optimization!)
 
 https://media2.dev.to/dynamic/image/width%3D1000%2Cheight%3D420%2Cfit%3Dcover%2Cgravity%3Dauto%2Cformat%3Dauto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F41cr293040xarbsuornu.png
+
 **💡 Key Takeaways**
 
 Deployment Speed: Pulling 74 MB is 8× faster than 654 MB.
